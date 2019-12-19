@@ -1,3 +1,12 @@
+## 1.0.0+10
+
+- [#36](https://github.com/endigo/flutter_pdfview/pull/36) support onError handlers
+- update example with onError handler
+
+## 1.0.0+9
+
+- Avoid Android Native crash when file is not valid
+
 ## 1.0.0+8
 
 - FIX: [#21](https://github.com/endigo/flutter_pdfview/issues/21)
